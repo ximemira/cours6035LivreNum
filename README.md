@@ -8,7 +8,7 @@ Sur ce dossier tu trouves les maquettes visuelles crées en Illustrator et mon t
 La dernière version de la maquette c'est la 2.1. Le résultat sur ordinateur ou tablette ressemblera aux slides que j'ai developpé sur google :
 https://docs.google.com/presentation/d/18OQydbfWAIh85ECRKjFjEuidtOzmUUKd7CBtUeEVXsQ/edit?usp=sharing
 
-La version de maquette 1.3 que j'ai crée en Reveal.js c'est Maquette 1.3. Même si, suite à des demandes de Renée, la maquette  a varié, les souci de codes pour moi restent similaires. Les détails :
+La version de maquette que j'ai crée en Reveal.js c'est Maquette 1.3. Même si, suite à des demandes de Renée, la maquette  a variée, les souci de codes pour moi restent similaires. Les détails :
 
 *Simple*
 
