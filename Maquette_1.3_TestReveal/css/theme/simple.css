@@ -319,6 +319,8 @@ body {
  }
  */
 
+/* J'ai ajouté de !important plus pour pouvoir communique l'apperçu attendu que pour utiliser le code comme tel. */
+
  .contentimage{
   object-fit: cover;
   overflow: hidden;
